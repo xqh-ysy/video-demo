@@ -1,8 +1,14 @@
 # video-demo
-Here are some saliency prediction results comparing PASSNET with ground truth (GT). We have selected representative videos to demonstrate the effectiveness of our method. You can download and review them. Thank you for your interest in our work.
+Here are some saliency prediction results comparing PASSNET with ground truth (GT). We have selected representative videos to demonstrate the effectiveness of our method. You can download and review them. Thank you for your interest in our work！
+**Descriptions**
+"ablation-pre-3_50_O_S.mp4" represents the saliency prediction using only the MESI module in our model.
+"pre-3_50_O_S.mp4" represents the saliency prediction using both the MESI and RSSI modules.
+"gt-xx.mp4" refers to the ground truth (GT) video.
+"pre-xx.mp4" refers to the predicted saliency video.
 
-Abstract—
-Since the interaction between audio and visual in
+
+**Abstract**
+Abstract—Since the interaction between audio and visual in
 panoramic video affects the user’s immersive experience, the
 research of incorporating audio into panoramic video saliency
 prediction has attracted much attention. However, there are
@@ -10,8 +16,8 @@ still many challenges, including inadequate calibration between
 the temporal semantics of audio and the spatial perception
 of video frames in complex scenes, as well as difficulties in
 managing abrupt audio scene changes in long-term videos. In
-this paper, we propose a Progressive Audio-Visual Semantic
-Spatial-Aware Network (PASSNet) for panoramic video saliency
+this paper, we propose a **Progressive Audio-Visual Semantic
+Spatial-Aware Network (PASSNet)** for panoramic video saliency
 predition, which includes a visual module, an audio module,
 and a fusion module. The visual module introduces a spherical
 vision transformer to solve the distortion of the panoramic
@@ -29,6 +35,4 @@ publicly available datasets. Further ablation experiments also
 validate the effectiveness of our proposed modules in effectively
 capturing both audio and visual features for saliency prediction
 in panoramic videos.
-Index Terms—PASSNet, Panoramic Videos, Audio-Visual,
-Saliency Prediction, Two-Stage Fusion.
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/0ce037c3-29c1-49ca-89e8-557dc828c395" />
