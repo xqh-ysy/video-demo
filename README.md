@@ -28,7 +28,12 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 [1024finalfigure.pdf](https://github.com/user-attachments/files/19911711/1024finalfigure.pdf)<br>
 
 
-**Abstract**<br>
+
+
+
+
+
+📝**Abstract**<br>
 
 <br>
 Since the interaction between audio and visual in
@@ -62,3 +67,46 @@ in panoramic videos.
 
 
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/0ce037c3-29c1-49ca-89e8-557dc828c395" />
+
+
+
+
+## 📁 Large File Access
+> 💡 **L55 video files** are stored in the dedicated [`lfs-video` branch](https://github.com/xqh-ysy/video-demo/tree/lfs-video) using Git LFS.
+
+---
+
+## 🎥 Model Prediction Visualizations
+
+### 🔍 Cross-Dataset Comparisons
+- **YQ-ODV Dataset**  
+  [Multi-frame model comparison](https://github.com/user-attachments/files/19911588/multi-output-final-re.pdf)  
+  ![](https://via.placeholder.com/600x100/FFEE99/000?text=YQ-ODV+Preview)
+
+- **AVS-ODV Dataset**  
+  [Cross-model prediction analysis](https://github.com/user-attachments/files/19911600/multi-SAL-ODV.pdf)  
+  ![](https://via.placeholder.com/600x100/C3E4CD/000?text=AVS-ODV+Preview)
+
+- **360AV-HM Scenarios**  
+  [Five-scenario comparison](https://github.com/user-attachments/files/19911663/1108chao.pdf)  
+  ![](https://via.placeholder.com/600x100/D4E6F1/000?text=360AV-HM+Scenarios)
+
+---
+
+## 🔬 Fusion Stage Analysis
+
+### 🧩 Modality Experiments
+- **Multi-Modal Fusion (MESI → RSSI)**  
+  [Stage transition visualization](https://github.com/user-attachments/files/19911708/ablationfinal.pdf)
+
+- **Human Distance Shifting**  
+  [Spatial-temporal dynamics](https://github.com/user-attachments/files/19911712/multi-SAL-ODV.pdf)  
+  ![](https://via.placeholder.com/400x80/F5CBA7/000?text=Human+Distance+Analysis)
+
+### 🎵 Audio-Visual Correlation
+- **Guitar Sound Variations**  
+  [Audio-visual saliency mapping](https://github.com/user-attachments/files/19911711/1024finalfigure.pdf)  
+  ![](https://via.placeholder.com/400x80/D7BDE2/000?text=Guitar+Sound+Correlation)
+
+- **General Fusion Process**  
+  [Stage-by-stage comparison](https://github.com/user-attachments/files/19911710/930ABL.1.pdf)
