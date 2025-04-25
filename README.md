@@ -43,7 +43,6 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 - **Visualization of saliency results at different fusion stages in scenes with changing guitar sounds.**<br>
   [Audio-visual saliency mapping](https://github.com/user-attachments/files/19911711/1024finalfigure.pdf)  
   ![](https://via.placeholder.com/400x80/D7BDE2/000?text=Guitar+Sound+Correlation)
-
 - **Visualizing the saliency results with different fusion stages**<br>
   [Stage-by-stage comparison](https://github.com/user-attachments/files/19911710/930ABL.1.pdf)
 
