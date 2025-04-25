@@ -40,10 +40,10 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 
 
 ### 🎵 Audio-Visual Correlation prediction((MESI -> RSSI))
-- **Visualization of saliency results at different fusion stages in scenes with changing guitar sounds.**
+- **Visualization of saliency results at different fusion stages in scenes with changing guitar sounds.**<br>
   [Audio-visual saliency mapping](https://github.com/user-attachments/files/19911711/1024finalfigure.pdf)  
   ![](https://via.placeholder.com/400x80/D7BDE2/000?text=Guitar+Sound+Correlation)
-- **Visualizing the saliency results with different fusion stages**
+- **Visualizing the saliency results with different fusion stages**<br><br>
   [Stage-by-stage comparison](https://github.com/user-attachments/files/19911710/930ABL.1.pdf)
   ![](https://via.placeholder.com/400x80/FFE5B4/000?text=Fusion+Stages)
 - **Vsualizing saliency results at different fusion stages in scenes with a human shifting from a distance**<br>
