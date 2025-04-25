@@ -10,10 +10,31 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 | `gt-xx.mp4`                    | Ground truth (GT) video                    |
 | `pre-xx.mp4`                   | Predicted saliency video                   |
 
-> 💡 Large L55 video files are in the [`lfs-video` branch](https://github.com/xqh-ysy/video-demo/tree/lfs-video).
+> 💡 Large L55 video files are in the [`lfs-video` branch](https://github.com/xqh-ysy/video-demo/tree/lfs-video).<br>
+> 💡 **Comparison of the prediction visualization of different models on the YQ-ODV dataset across multiple frames.**<br>
+
+ [multi-output-final-re.pdf](https://github.com/user-attachments/files/19911588/multi-output-final-re.pdf)<br>
+> 💡 **Comparison of the prediction visualization of different models on the AVS-ODV dataset.**<br>
+
+ [multi-SAL-ODV.pdf](https://github.com/user-attachments/files/19911600/multi-SAL-ODV.pdf)<br>
+> 💡 **Comparison of the prediction visualization of different models on the 360AV-HM  dataset under five scenarios**<br>
+[1108chao.pdf](https://github.com/user-attachments/files/19911663/1108chao.pdf)<br>
+
+> 💡 **Visualizing saliency results with different modalities and different fusion stage(MESI -> RSSI)**<br>
+**Visualizing saliency results with different modalities.**<br>
+[ablationfinal.pdf](https://github.com/user-attachments/files/19911708/ablationfinal.pdf)<br>
+**Vsualizing saliency results at different fusion stages in scenes with a human shifting from a distance**<br>
+[multi-SAL-ODV.pdf](https://github.com/user-attachments/files/19911712/multi-SAL-ODV.pdf)<br>
+
+**Visualizing the saliency results with different fusion stages**<br>
+[930ABL(1).pdf](https://github.com/user-attachments/files/19911710/930ABL.1.pdf)<br>
+**Visualization of saliency results at different fusion stages in scenes with changing guitar sounds.**
+
+[1024finalfigure.pdf](https://github.com/user-attachments/files/19911711/1024finalfigure.pdf)<br>
 
 
 **Abstract**<br>
+
 <br>
 Since the interaction between audio and visual in
 panoramic video affects the user’s immersive experience, the
