@@ -10,7 +10,7 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 | `gt-xx.mp4`                    | Ground truth (GT) video                    |
 | `pre-xx.mp4`                   | Predicted saliency video                   |
 
-> 💡 Large L55 video files are in the [`lfs-video` branch](分支链接).
+> 💡 Large L55 video files are in the [`lfs-video` branch](https://github.com/xqh-ysy/video-demo/tree/lfs-video).
 
 
 **Abstract**<br>
