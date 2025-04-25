@@ -5,6 +5,7 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 "pre-3_50_O_S.mp4" represents the saliency prediction using both the MESI and RSSI modules.<br>
 "gt-xx.mp4" refers to the ground truth (GT) video.<br>
 "pre-xx.mp4" refers to the predicted saliency video.<br>
+Since the prediction results and ground truth labels for the **L55 videos** are large in size, they can be accessed in a dedicated branch **(lfs-video)**
 
 
 **Abstract**<br>
