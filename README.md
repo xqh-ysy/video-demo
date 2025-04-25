@@ -8,7 +8,8 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 
 
 **Abstract**
-Abstract—Since the interaction between audio and visual in
+
+Since the interaction between audio and visual in
 panoramic video affects the user’s immersive experience, the
 research of incorporating audio into panoramic video saliency
 prediction has attracted much attention. However, there are
@@ -35,4 +36,7 @@ publicly available datasets. Further ablation experiments also
 validate the effectiveness of our proposed modules in effectively
 capturing both audio and visual features for saliency prediction
 in panoramic videos.
+
+
+
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/0ce037c3-29c1-49ca-89e8-557dc828c395" />
