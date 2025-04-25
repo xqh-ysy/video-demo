@@ -48,8 +48,9 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
   [Stage-by-stage comparison](https://github.com/user-attachments/files/19911710/930ABL.1.pdf)
 
 - **Vsualizing saliency results at different fusion stages in scenes with a human shifting from a distance**<br>
-  [Spatial-temporal dynamics](https://github.com/user-attachments/files/19911712/multi-SAL-ODV.pdf)  
+  [Spatial-temporal dynamics](https://github.com/user-attachments/files/19912054/multi-ablation-RES.pdf)  
   ![](https://via.placeholder.com/400x80/F5CBA7/000?text=Human+Distance+Analysis)
+
 
 
 
