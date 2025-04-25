@@ -1,8 +1,16 @@
 # video-demo
 Here are some saliency prediction results comparing PASSNET with ground truth (GT). We have selected representative videos to demonstrate the effectiveness of our method. You can download and review them. Thank you for your interest in our work！<br>
 **Descriptions**<br>
-<span style="color:blue">"ablation-pre-3_50_O_S.mp4" represents the saliency prediction using only the MESI module in our model.</span><br>
 
+
+| File Name                      | Description                                |
+|--------------------------------|--------------------------------------------|
+| `ablation-pre-3_50_O_S.mp4`    | Saliency prediction (MESI only)            |
+| `pre-3_50_O_S.mp4`            | Saliency prediction (MESI + RSSI)          |
+| `gt-xx.mp4`                    | Ground truth (GT) video                    |
+| `pre-xx.mp4`                   | Predicted saliency video                   |
+
+> 💡 Large L55 video files are in the [`lfs-video` branch](分支链接).
 
 
 **Abstract**<br>
