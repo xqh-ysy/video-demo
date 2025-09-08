@@ -6,6 +6,7 @@ Here are some saliency prediction results comparing PASSNET with ground truth (G
 | File Name                      | Description                                |
 |--------------------------------|--------------------------------------------|
 | `ablation-pre-3_50_O_S.mp4`    | Saliency prediction (MESI only)            |
+| `OnlyVis_3_50_O_S.mp4`        | Saliency prediction （VSTA only）            |
 | `pre-3_50_O_S.mp4`            | Saliency prediction (MESI + RSSI)          |
 | `gt-xx.mp4`                    | Ground truth (GT) video                    |
 | `pre-xx.mp4`                   | Predicted saliency video                   |
